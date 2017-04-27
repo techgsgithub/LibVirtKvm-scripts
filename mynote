@@ -1,0 +1,2 @@
+On ubuntu it is possible only with sudo bash  fwbackup.sh -b backup-dir/ -d ubuntusrv  
+You can not use as root.  you have to add bash after sudo
